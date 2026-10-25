@@ -1,0 +1,10 @@
+#Test Case 1 (n=4, W=10) Result: 150
+#Test Case 2 (n=5, W=15) Result: 100
+#Test Case 3 (n=6, W=12) Result: 150
+#Test Case 4 (n=5, W=8) Result: 90
+#Test Case 5 (n=7, W=20) Result: 122
+#Test Case 6 (n=4, W=6) Result: 90
+#Test Case 7 (n=5, W=25) Result: 47
+#Test Case 8 (n=6, W=18) Result: 95
+#Test Case 9 (n=8, W=30) Result: 290
+#Test Case 10 (n=10, W=50) Result: 100
